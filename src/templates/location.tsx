@@ -6,6 +6,7 @@
  *
  * Another way to think about it is that a page will be generated using this
  * template for every eligible entity in your Knowledge Graph.
+ * rock updates this 
  */
 
 import {
